@@ -1,0 +1,11 @@
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\bin\Debug\First Project.exe.config
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\bin\Debug\First Project.exe
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\bin\Debug\First Project.pdb
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\obj\Debug\Paint Job Estimator.csproj.AssemblyReference.cache
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\obj\Debug\Paint Job Estimator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\obj\Debug\First_Project.FirstProjectForm.resources
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\obj\Debug\First_Project.Properties.Resources.resources
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\obj\Debug\Paint Job Estimator.csproj.GenerateResource.cache
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\obj\Debug\Paint Job Estimator.csproj.CoreCompileInputs.cache
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\obj\Debug\First Project.exe
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\Paint Job Esitmator\First Project\obj\Debug\First Project.pdb
